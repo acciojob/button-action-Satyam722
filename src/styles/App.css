@@ -1,1 +1,11 @@
 /* Your CSS code here. */
+/* App.css (Assumed Styles) */
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block; /* or display: initial; */
+  color: green; /* Optional styling */
+}
